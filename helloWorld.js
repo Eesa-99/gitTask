@@ -1,1 +1,2 @@
-console.log("Git, is awesome!");
+const userInput = prompt("Please enter some text:");
+console.log("You entered: " + userInput);
